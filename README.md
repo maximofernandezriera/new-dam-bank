@@ -1,6 +1,6 @@
-# Proyecto Newdambank
+# Proyecto NewDawBank
 
-La empresa ACME INC. te ha contratado para desarrollar un software de gestión de una cuenta bancaria para la cooperativa de banca ética y sostenible NewDawnBank. Se trata de una aplicación Java formada por una clase principal NewDamBank y otra llamada CuentaBancaria.
+La empresa ACME INC. te ha contratado para desarrollar un software de gestión de una cuenta bancaria para la cooperativa de banca ética y sostenible NewDawnBank. Se trata de una aplicación Java formada por una clase principal NewDawBank y otra llamada CuentaBancaria.
 
 El programa pedirá los datos necesarios para crear una cuenta bancaria. Si son válidos, creará la cuenta y mostrará el menú principal para permitir actuar sobre la cuenta. Tras cada acción se volverá a mostrar el menú.
 
@@ -25,6 +25,6 @@ No se realizará ningún tipo de entrada por teclado. La única salida por panta
 
 1. (*) Estos valores no pueden variar y son iguales para todas las cuentas bancarias.
 
-## Clase NewDamBank
+## Clase NewDawBank
 
 Clase principal con función main. Encargada de interactuar con el usuario, mostrar el menú principal, dar feedback y/o mensajes de error, etc. Utilizará la clase CuentaBancaria. Puedes implementar las funciones que consideres oportunas.
